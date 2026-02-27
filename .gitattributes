@@ -1,1 +1,2 @@
-echo "*.ipynb linguist-detectable=false" > .gitattributes
+*.ipynb linguist-detectable=false
+*.py linguist-detectable=true
