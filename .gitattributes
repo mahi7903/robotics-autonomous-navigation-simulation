@@ -1,1 +1,1 @@
-*.ipynb linguist-detectable=false
+echo "*.ipynb linguist-detectable=false" > .gitattributes
